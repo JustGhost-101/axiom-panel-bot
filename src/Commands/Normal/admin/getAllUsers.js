@@ -42,7 +42,7 @@ module.exports = {
                     .setColor('RED')
                     .setTitle('Error')
                     .setDescription(`\`${err}\``)
-                    .setFooter({ text: `Error Occured | Made by Bear#3437 | ©️ ${new Date().getFullYear()} Tamako`, iconURL: client.user.displayAvatarURL({ dynamic: true }) })]
+                    .setFooter({ text: `Error Occured | Made by justghost101 | ©️ ${new Date().getFullYear()}`, iconURL: client.user.displayAvatarURL({ dynamic: true }) })]
             });
         }
     }
