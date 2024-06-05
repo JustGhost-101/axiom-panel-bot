@@ -4,7 +4,7 @@ module.exports = {
     // Can have multiple prefixes
     prefix: ['t!', process.env.PREFIX],
     // developer IDs
-    developers: ['397338324328775680'],
+    developers: ['455146103755636739'],
     token: process.env.DISCORD_TOKEN,
 };
 
